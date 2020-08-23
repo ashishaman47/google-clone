@@ -126,6 +126,7 @@ export default SearchPage;
 
 // click identify your appplication --> Get Key -->Google Custom Api Key
 // AIzaSyDlnDLqz_6o1U2aUEWrPz_daq1l0VgzkBA
+//           all the key genertion should be done from the same google account
 // we have a search limit of 100 queries a day so don't share your API key with others
 
 // In order to use google search api you have to do one more step
